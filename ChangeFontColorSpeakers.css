@@ -1,13 +1,7 @@
-body .speaker-profile-overlay {
+.speaker-profile-overlay * {
     color: white !important;
 }
 
 body {
   background-color: pink !important;
 }
-
-body .speaker-profile-overlay * {
-  color: black !important;
-}
-
-
